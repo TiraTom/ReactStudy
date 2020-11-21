@@ -1,4 +1,3 @@
-// eslint-disable-next-line no-use-before-define
 import React, { FC } from 'react';
 import CharacterList, { Character } from './CharacterList';
 import './App.css';

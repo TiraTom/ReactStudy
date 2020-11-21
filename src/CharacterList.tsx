@@ -1,4 +1,3 @@
-// eslint-disable-next-line no-use-before-define
 import React, { FC } from 'react';
 import { Header, Icon, Item } from 'semantic-ui-react';
 
